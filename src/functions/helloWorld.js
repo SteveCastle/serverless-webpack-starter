@@ -1,16 +1,4 @@
-import { msg } from '../common/message';
+import { msg } from '../helloWorld/message';
+import formatResponse from '../common/formatResponse';
 
-export const helloWorld = (event, context, callback) => {
-  const response = {
-    statusCode: 200,
-    headers: {
-      'Access-Control-Allow-Origin': '*', // Required for CORS support to work
-    },
-    body: JSON.stringify({
-      msg,
-      input: event,
-    }),
-  };
-
-  callback(null, response);
-};
+export const handler = (event, context, callback) => callback(null, formatResponse(msg, event));
