@@ -31,13 +31,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/serverless-webpack-starter/tags). 
 
 ## Authors
 
 * **Stephen Castle** - *Initial work* - [SteveCastle](https://github.com/SteveCastle)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/serverless-webpack-starter/contributors) who participated in this project.
 
 ## License
 
