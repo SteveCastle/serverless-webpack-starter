@@ -21,9 +21,10 @@ A HelloWorld boiler-plate for starting the bare minimum serverless-framework pro
 
 ## Built With
 
-* [Serverless Framework](http://serverlessframework.com)
-* [Webpack](https://serverless.com/) - Bundle
-* [Serverless Webpack](https://www.npmjs.com/package/serverless-webpack) - Used to generate RSS Feeds
+* [Serverless Framework](https://serverless.com/)
+* [Webpack](https://webpack.js.org/)
+* [Serverless Webpack](https://www.npmjs.com/package/serverless-webpack) - Use es6 imports and other features in node serverless functions. 
+* [Airbnb ESLint Config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 
 ## Contributing
 
