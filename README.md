@@ -27,17 +27,17 @@ Hello world configuration for serverless framework projects with serverless-webp
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/SteveCastle/) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/serverless-webpack-starter/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/SteveCastle/serverless-webpack-starter/tags). 
 
 ## Authors
 
 * **Stephen Castle** - *Initial work* - [SteveCastle](https://github.com/SteveCastle)
 
-See also the list of [contributors](https://github.com/serverless-webpack-starter/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SteveCastle/serverless-webpack-starter/contributors) who participated in this project.
 
 ## License
 
