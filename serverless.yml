@@ -16,7 +16,7 @@ provider:
 # The `functions` block defines what code to deploy
 functions:
   helloWorld:
-    handler: handler.helloWorld
+    handler: src/functions/helloWorld.helloWorld
     # The `events` block defines how to trigger the handler.helloWorld code
     events:
       - http:

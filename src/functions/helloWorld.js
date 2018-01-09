@@ -1,4 +1,4 @@
-import { msg } from './src/message';
+import { msg } from '../common/message';
 
 export const helloWorld = (event, context, callback) => {
   const response = {
