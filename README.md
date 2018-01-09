@@ -2,7 +2,7 @@
 
 # Serverless Webpack Starter
 
-Hello world configuration for serverless framework projects with serverless-webpack, Babel loader, and airbnb eslint presets.
+A HelloWorld boiler-plate for starting the bare minimum serverless-framework project with serverless-webpack, babel-loader, and airbnb eslint presets. For those used to working with es6 and strict linting in their javascript projects.
 
 ## Getting Started
 
